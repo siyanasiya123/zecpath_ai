@@ -1,0 +1,29 @@
+Job Title: AI/ML Engineer
+Company: VisionAI Labs
+Location: Thiruvananthapuram, Kerala
+Employment Type: Full-time
+
+Job Description:
+We are looking for an AI/ML Engineer to develop and deploy artificial intelligence and machine learning solutions.
+
+Required Skills:
+Python, Machine Learning, Deep Learning, NLP
+
+Preferred Skills:
+TensorFlow, PyTorch, OpenCV, Docker
+
+Experience:
+0-2 years
+
+Education:
+MCA, M.Tech, M.Sc, B.Tech or equivalent
+
+Responsibilities:
+Develop machine learning models
+Train and evaluate AI models
+Work with large datasets
+Develop NLP solutions
+Deploy machine learning applications
+
+Certifications:
+AI or Machine Learning certification is preferred

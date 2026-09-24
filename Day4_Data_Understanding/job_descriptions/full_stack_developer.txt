@@ -1,0 +1,29 @@
+Job Title: Full Stack Developer
+Company: WebCraft Technologies
+Location: Kozhikode, Kerala
+Employment Type: Full-time
+
+Job Description:
+We are looking for a Full Stack Developer to develop modern web applications.
+
+Required Skills:
+HTML, CSS, JavaScript, React, Node.js, SQL
+
+Preferred Skills:
+Python, Django, MongoDB, Git
+
+Experience:
+1-3 years
+
+Education:
+BCA, MCA, B.Tech or equivalent
+
+Responsibilities:
+Develop frontend applications
+Develop backend services
+Integrate databases
+Create REST APIs
+Fix software issues
+
+Certifications:
+Web development certification is preferred

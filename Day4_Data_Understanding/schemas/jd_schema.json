@@ -1,0 +1,101 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Job Description Schema",
+    "description": "Schema for representing structured job description data",
+    "type": "object",
+
+    "properties": {
+
+        "job_title": {
+            "type": "string"
+        },
+
+        "company": {
+            "type": "string"
+        },
+
+        "location": {
+            "type": "string"
+        },
+
+        "employment_type": {
+            "type": "string"
+        },
+
+        "job_description": {
+            "type": "string"
+        },
+
+        "required_skills": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+
+        "preferred_skills": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+
+        "experience": {
+            "type": "object",
+
+            "properties": {
+
+                "minimum_years": {
+                    "type": "number"
+                },
+
+                "maximum_years": {
+                    "type": "number"
+                }
+            },
+
+            "required": [
+                "minimum_years",
+                "maximum_years"
+            ]
+        },
+
+        "education": {
+            "type": "array",
+
+            "items": {
+                "type": "string"
+            }
+        },
+
+        "responsibilities": {
+            "type": "array",
+
+            "items": {
+                "type": "string"
+            }
+        },
+
+        "certifications": {
+            "type": "array",
+
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+
+    "required": [
+        "job_title",
+        "company",
+        "location",
+        "employment_type",
+        "job_description",
+        "required_skills",
+        "preferred_skills",
+        "experience",
+        "education",
+        "responsibilities",
+        "certifications"
+    ]
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "job_id": "J001",
+        "job_title": "AI/ML Intern",
+        "company_name": "ABC Technologies",
+        "location": "Kochi",
+        "job_type": "Internship",
+        "description": "AI and Machine Learning internship",
+        "required_skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "Django",
+            "Deep Learning"
+        ],
+        "experience_required": "Fresher",
+        "education_required": "MCA"
+    },
+    {
+        "job_id": "J002",
+        "job_title": "Python Developer Intern",
+        "company_name": "XYZ Solutions",
+        "location": "Trivandrum",
+        "job_type": "Internship",
+        "description": "Python development internship",
+        "required_skills": [
+            "Python",
+            "Django"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "REST API"
+        ],
+        "experience_required": "Fresher",
+        "education_required": "MCA"
+    },
+    {
+        "job_id": "J003",
+        "job_title": "Data Science Intern",
+        "company_name": "DataTech",
+        "location": "Kozhikode",
+        "job_type": "Internship",
+        "description": "Data Science and analytics internship",
+        "required_skills": [
+            "Python",
+            "Pandas",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "SQL",
+            "Deep Learning"
+        ],
+        "experience_required": "Fresher",
+        "education_required": "MCA"
+    }
+]

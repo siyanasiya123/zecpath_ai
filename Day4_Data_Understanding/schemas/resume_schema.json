@@ -1,0 +1,86 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "Resume Structured Schema",
+    "description": "Schema for representing structured candidate resume data",
+    "type": "object",
+
+    "properties": {
+
+        "resume_file": {
+            "type": "string",
+            "description": "Name of the resume PDF file"
+        },
+
+        "candidate_profile": {
+            "type": "object",
+
+            "properties": {
+
+                "name": {
+                    "type": "string"
+                },
+
+                "email": {
+                    "type": "string"
+                },
+
+                "phone": {
+                    "type": "string"
+                },
+
+                "designation": {
+                    "type": "string"
+                }
+            },
+
+            "required": [
+                "name",
+                "email",
+                "phone",
+                "designation"
+            ]
+        },
+
+        "skills": {
+            "type": "array",
+
+            "items": {
+                "type": "string"
+            }
+        },
+
+        "experience": {
+            "type": "string"
+        },
+
+        "education": {
+            "type": "string"
+        },
+
+        "certifications": {
+            "type": "array",
+
+            "items": {
+                "type": "string"
+            }
+        },
+
+        "projects": {
+            "type": "array",
+
+            "items": {
+                "type": "string"
+            }
+        }
+    },
+
+    "required": [
+        "resume_file",
+        "candidate_profile",
+        "skills",
+        "experience",
+        "education",
+        "certifications",
+        "projects"
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "resume_file": "01_Python_Developer.pdf",
+        "raw_text": "Arjun Nair\n Python Developer\n Kochi, Kerala | arjun.nair@example.com | +91 90000 10001\nPROFESSIONAL SUMMARY\nPython Developer with 2 years of experience building web applications and REST APIs using Python and Django.\nSKILLS\nPython, Django, Django REST Framework, SQL, PostgreSQL, Git, REST API, HTML, CSS\nEXPERIENCE\nPython Developer, TechNova Solutions, Kochi | 2024–2026\n Developed Django web applications and REST APIs.\n Worked with PostgreSQL databases and Git.\n Fixed bugs and improved application performance.\nEDUCATION\nB.Tech in Computer Science, APJ Abdul Kalam Technological University, 2024\nCERTIFICATIONS\nPython Programming Certification – Coursera, 2024\nPROJECTS\nEmployee Management System – Django, PostgreSQL, REST API"
+    },
+    {
+        "resume_file": "02_Data_Scientist.pdf",
+        "raw_text": "Meera Joseph\n Data Scientist\n Bengaluru, Karnataka | meera.joseph@example.com | +91 90000 10002\nPROFESSIONAL SUMMARY\nData Scientist with 1.5 years of experience in data analysis, machine learning, visualization and predictive\nmodeling.\nSKILLS\nPython, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, Seaborn, Machine Learning, Statistics\nEXPERIENCE\nJunior Data Scientist, DataBridge Analytics, Bengaluru | 2025–2026\n Cleaned and analyzed structured datasets.\n Built regression and classification models.\n Created reports for business teams.\nEDUCATION\nM.Sc. Data Science, University of Mysore, 2024\nCERTIFICATIONS\nIBM Data Science Professional Certificate, 2025\nPROJECTS\nCustomer Churn Prediction – Python, Pandas, Scikit-learn"
+    },
+    {
+        "resume_file": "03_AI_ML_Engineer.pdf",
+        "raw_text": "Rahul Menon\n AI/ML Engineer\n Thiruvananthapuram, Kerala | rahul.menon@example.com | +91 90000 10003\nPROFESSIONAL SUMMARY\nAI/ML Engineer with 2 years of experience developing machine learning and deep learning solutions.\nSKILLS\nPython, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, OpenCV, Pandas, SQL, Git\nEXPERIENCE\nAI/ML Engineer, VisionAI Labs, Thiruvananthapuram | 2024–2026\n Developed classification and prediction models.\n Built NLP pipelines for text classification.\n Evaluated models using standard performance metrics.\nEDUCATION\nM.Tech in Artificial Intelligence, Kerala University, 2024\nCERTIFICATIONS\nDeep Learning Specialization – DeepLearning.AI, 2025\nPROJECTS\nDocument Classification System – Python, NLP, TensorFlow"
+    },
+    {
+        "resume_file": "04_Full_Stack_Developer.pdf",
+        "raw_text": "Ananya Thomas\n Full Stack Developer\n Kozhikode, Kerala | ananya.thomas@example.com | +91 90000 10004\nPROFESSIONAL SUMMARY\nFull Stack Developer with 3 years of experience developing responsive web applications and backend services.\nSKILLS\nJavaScript, React, Node.js, Express.js, Python, Django, MongoDB, MySQL, HTML, CSS, Git\nEXPERIENCE\nFull Stack Developer, WebCraft Technologies, Kozhikode | 2023–2026\n Built responsive React applications.\n Developed Node.js and Django backend services.\n Integrated databases and REST APIs.\nEDUCATION\nBCA, University of Calicut, 2023\nCERTIFICATIONS\nFull Stack Web Development Certificate – Udemy, 2023\nPROJECTS\nOnline Learning Platform – React, Node.js, MongoDB"
+    },
+    {
+        "resume_file": "05_Java_Developer.pdf",
+        "raw_text": "Vivek Kumar\n Java Developer\n Chennai, Tamil Nadu | vivek.kumar@example.com | +91 90000 10005\nPROFESSIONAL SUMMARY\nJava Developer with 2 years of experience developing enterprise applications using Java and Spring Boot.\nSKILLS\nJava, Spring Boot, Hibernate, REST API, MySQL, Maven, Git, JUnit, OOP\nEXPERIENCE\nJava Developer, CodeSphere Pvt Ltd, Chennai | 2024–2026\n Developed RESTful services using Spring Boot.\n Implemented database operations with Hibernate and MySQL.\n Wrote unit tests and participated in code reviews.\nEDUCATION\nB.E. Computer Science, Anna University, 2024\nCERTIFICATIONS\nOracle Certified Professional Java SE, 2025\nPROJECTS\nBanking Transaction API – Java, Spring Boot, MySQL"
+    },
+    {
+        "resume_file": "06_Cloud_Engineer.pdf",
+        "raw_text": "Fathima Salim\n Cloud Engineer\n Hyderabad, Telangana | fathima.salim@example.com | +91 90000 10006\nPROFESSIONAL SUMMARY\nCloud Engineer with 2.5 years of experience in cloud infrastructure, containers and deployment automation.\nSKILLS\nAWS, EC2, S3, IAM, Docker, Kubernetes, Terraform, Linux, Git, CI/CD\nEXPERIENCE\nCloud Engineer, CloudMatrix Systems, Hyderabad | 2023–2026\n Managed AWS cloud resources and access policies.\n Containerized applications using Docker.\n Automated infrastructure deployment using Terraform.\nEDUCATION\nB.Tech Information Technology, JNTU Hyderabad, 2023\nCERTIFICATIONS\nAWS Certified Solutions Architect – Associate, 2025\nPROJECTS\nAWS Application Deployment Pipeline – AWS, Docker, Terraform"
+    },
+    {
+        "resume_file": "07_QA_Engineer.pdf",
+        "raw_text": "Nikhil Raj\n QA Engineer\n Coimbatore, Tamil Nadu | nikhil.raj@example.com | +91 90000 10007\nPROFESSIONAL SUMMARY\nQA Engineer with 1 year of experience in manual and automated software testing.\nSKILLS\nManual Testing, Selenium, Python, SQL, API Testing, Postman, Jira, TestNG, Regression Testing\nEXPERIENCE\nQA Engineer, SoftTest Solutions, Coimbatore | 2025–2026\n Prepared test cases and test reports.\n Performed functional, regression and API testing.\n Automated web test cases using Selenium.\nEDUCATION\nB.Sc. Computer Science, Bharathiar University, 2025\nCERTIFICATIONS\nISTQB Foundation Level, 2025\nPROJECTS\nE-commerce Testing Suite – Selenium, Python, Postman"
+    },
+    {
+        "resume_file": "08_Cybersecurity_Analyst.pdf",
+        "raw_text": "Akhil Suresh\n Cybersecurity Analyst\n Bengaluru, Karnataka | akhil.suresh@example.com | +91 90000 10008\nPROFESSIONAL SUMMARY\nCybersecurity Analyst with 2 years of experience in security monitoring, vulnerability assessment and incident\nsupport.\nSKILLS\nCybersecurity, Linux, Networking, SIEM, Wireshark, Vulnerability Assessment, Python, SQL, Firewalls\nEXPERIENCE\nCybersecurity Analyst, SecureNet India, Bengaluru | 2024–2026\n Monitored security alerts using SIEM tools.\n Assisted with vulnerability assessments and incident investigations.\n Analyzed network traffic and security logs.\nEDUCATION\nMCA, Bangalore University, 2024\nCERTIFICATIONS\nCompTIA Security+, 2025\nPROJECTS\nNetwork Intrusion Detection Prototype – Python, Wireshark"
+    },
+    {
+        "resume_file": "09_HR_Executive.pdf",
+        "raw_text": "Sneha Mathew\n HR Executive\n Kochi, Kerala | sneha.mathew@example.com | +91 90000 10009\nPROFESSIONAL SUMMARY\nHR Executive with 2 years of experience in recruitment coordination, employee support and HR operations.\nSKILLS\nRecruitment, Candidate Screening, Interview Coordination, HR Operations, Communication, MS Excel, HRMS\nEXPERIENCE\nHR Executive, PeopleFirst Services, Kochi | 2024–2026\n Coordinated recruitment and interview schedules.\n Screened candidate profiles against job requirements.\n Maintained employee records and supported onboarding.\nEDUCATION\nMBA Human Resources, Mahatma Gandhi University, 2024\nCERTIFICATIONS\nHR Analytics Certification – Great Learning, 2025\nPROJECTS\nEmployee Onboarding Process Improvement"
+    },
+    {
+        "resume_file": "10_Digital_Marketing_Executive.pdf",
+        "raw_text": "Diya Krishnan\n Digital Marketing Executive\n Chennai, Tamil Nadu | diya.krishnan@example.com | +91 90000 10010\nPROFESSIONAL SUMMARY\nDigital Marketing Executive with 1.5 years of experience in SEO, social media and digital campaign analysis.\nSKILLS\nSEO, Social Media Marketing, Google Analytics, Content Marketing, Canva, Email Marketing, Keyword Research\nEXPERIENCE\nDigital Marketing Executive, BrandGrow Media, Chennai | 2025–2026\n Managed social media campaigns and content calendars.\n Performed keyword research and SEO optimization.\n Analyzed campaign performance using analytics tools.\nEDUCATION\nBBA Marketing, University of Madras, 2024\nCERTIFICATIONS\nGoogle Digital Marketing & E-commerce Certificate, 2025\nPROJECTS\nSEO Campaign for E-commerce Website"
+    }
+]

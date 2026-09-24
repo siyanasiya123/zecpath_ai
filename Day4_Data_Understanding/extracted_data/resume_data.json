@@ -1,0 +1,282 @@
+[
+    {
+        "resume_file": "01_Python_Developer.pdf",
+        "candidate_profile": {
+            "name": "Arjun Nair",
+            "email": "arjun.nair@example.com",
+            "phone": "+91 90000 10001",
+            "designation": "Python Developer"
+        },
+        "skills": [
+            "Python",
+            "Django",
+            "Django REST Framework",
+            "SQL",
+            "PostgreSQL",
+            "Git",
+            "REST API",
+            "HTML",
+            "CSS"
+        ],
+        "experience": "building web applications and REST APIs using Python and Django.\nSKILLS\nPython, Django, Django REST Framework, SQL, PostgreSQL, Git, REST API, HTML, CSS\nEXPERIENCE\nPython Developer, TechNova Solutions, Kochi | 2024–2026\n Developed Django web applications and REST APIs.\n Worked with PostgreSQL databases and Git.\n Fixed bugs and improved application performance.",
+        "education": "B.Tech in Computer Science, APJ Abdul Kalam Technological University, 2024",
+        "certifications": [
+            "Python Programming Certification – Coursera, 2024"
+        ],
+        "projects": [
+            "Employee Management System – Django, PostgreSQL, REST API"
+        ]
+    },
+    {
+        "resume_file": "02_Data_Scientist.pdf",
+        "candidate_profile": {
+            "name": "Meera Joseph",
+            "email": "meera.joseph@example.com",
+            "phone": "+91 90000 10002",
+            "designation": "Data Scientist"
+        },
+        "skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "SQL",
+            "Matplotlib",
+            "Seaborn",
+            "Machine Learning",
+            "Statistics"
+        ],
+        "experience": "in data analysis, machine learning, visualization and predictive\nmodeling.\nSKILLS\nPython, Pandas, NumPy, Scikit-learn, SQL, Matplotlib, Seaborn, Machine Learning, Statistics\nEXPERIENCE\nJunior Data Scientist, DataBridge Analytics, Bengaluru | 2025–2026\n Cleaned and analyzed structured datasets.\n Built regression and classification models.\n Created reports for business teams.",
+        "education": "M.Sc. Data Science, University of Mysore, 2024",
+        "certifications": [
+            "IBM Data Science Professional Certificate, 2025"
+        ],
+        "projects": [
+            "Customer Churn Prediction – Python, Pandas, Scikit-learn"
+        ]
+    },
+    {
+        "resume_file": "03_AI_ML_Engineer.pdf",
+        "candidate_profile": {
+            "name": "Rahul Menon",
+            "email": "rahul.menon@example.com",
+            "phone": "+91 90000 10003",
+            "designation": "AI/ML Engineer"
+        },
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "TensorFlow",
+            "PyTorch",
+            "NLP",
+            "OpenCV",
+            "Pandas",
+            "SQL",
+            "Git"
+        ],
+        "experience": "developing machine learning and deep learning solutions.\nSKILLS\nPython, Machine Learning, Deep Learning, TensorFlow, PyTorch, NLP, OpenCV, Pandas, SQL, Git\nEXPERIENCE\nAI/ML Engineer, VisionAI Labs, Thiruvananthapuram | 2024–2026\n Developed classification and prediction models.\n Built NLP pipelines for text classification.\n Evaluated models using standard performance metrics.",
+        "education": "M.Tech in Artificial Intelligence, Kerala University, 2024",
+        "certifications": [
+            "Deep Learning Specialization – DeepLearning.AI, 2025"
+        ],
+        "projects": [
+            "Document Classification System – Python, NLP, TensorFlow"
+        ]
+    },
+    {
+        "resume_file": "04_Full_Stack_Developer.pdf",
+        "candidate_profile": {
+            "name": "Ananya Thomas",
+            "email": "ananya.thomas@example.com",
+            "phone": "+91 90000 10004",
+            "designation": "Full Stack Developer"
+        },
+        "skills": [
+            "JavaScript",
+            "React",
+            "Node.js",
+            "Express.js",
+            "Python",
+            "Django",
+            "MongoDB",
+            "MySQL",
+            "HTML",
+            "CSS",
+            "Git"
+        ],
+        "experience": "developing responsive web applications and backend services.\nSKILLS\nJavaScript, React, Node.js, Express.js, Python, Django, MongoDB, MySQL, HTML, CSS, Git\nEXPERIENCE\nFull Stack Developer, WebCraft Technologies, Kozhikode | 2023–2026\n Built responsive React applications.\n Developed Node.js and Django backend services.\n Integrated databases and REST APIs.",
+        "education": "BCA, University of Calicut, 2023",
+        "certifications": [
+            "Full Stack Web Development Certificate – Udemy, 2023"
+        ],
+        "projects": [
+            "Online Learning Platform – React, Node.js, MongoDB"
+        ]
+    },
+    {
+        "resume_file": "05_Java_Developer.pdf",
+        "candidate_profile": {
+            "name": "Vivek Kumar",
+            "email": "vivek.kumar@example.com",
+            "phone": "+91 90000 10005",
+            "designation": "Java Developer"
+        },
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Hibernate",
+            "REST API",
+            "MySQL",
+            "Maven",
+            "Git",
+            "JUnit",
+            "OOP"
+        ],
+        "experience": "developing enterprise applications using Java and Spring Boot.\nSKILLS\nJava, Spring Boot, Hibernate, REST API, MySQL, Maven, Git, JUnit, OOP\nEXPERIENCE\nJava Developer, CodeSphere Pvt Ltd, Chennai | 2024–2026\n Developed RESTful services using Spring Boot.\n Implemented database operations with Hibernate and MySQL.\n Wrote unit tests and participated in code reviews.",
+        "education": "B.E. Computer Science, Anna University, 2024",
+        "certifications": [
+            "Oracle Certified Professional Java SE, 2025"
+        ],
+        "projects": [
+            "Banking Transaction API – Java, Spring Boot, MySQL"
+        ]
+    },
+    {
+        "resume_file": "06_Cloud_Engineer.pdf",
+        "candidate_profile": {
+            "name": "Fathima Salim",
+            "email": "fathima.salim@example.com",
+            "phone": "+91 90000 10006",
+            "designation": "Cloud Engineer"
+        },
+        "skills": [
+            "AWS",
+            "EC2",
+            "S3",
+            "IAM",
+            "Docker",
+            "Kubernetes",
+            "Terraform",
+            "Linux",
+            "Git",
+            "CI/CD"
+        ],
+        "experience": "in cloud infrastructure, containers and deployment automation.\nSKILLS\nAWS, EC2, S3, IAM, Docker, Kubernetes, Terraform, Linux, Git, CI/CD\nEXPERIENCE\nCloud Engineer, CloudMatrix Systems, Hyderabad | 2023–2026\n Managed AWS cloud resources and access policies.\n Containerized applications using Docker.\n Automated infrastructure deployment using Terraform.",
+        "education": "B.Tech Information Technology, JNTU Hyderabad, 2023",
+        "certifications": [
+            "AWS Certified Solutions Architect – Associate, 2025"
+        ],
+        "projects": [
+            "AWS Application Deployment Pipeline – AWS, Docker, Terraform"
+        ]
+    },
+    {
+        "resume_file": "07_QA_Engineer.pdf",
+        "candidate_profile": {
+            "name": "Nikhil Raj",
+            "email": "nikhil.raj@example.com",
+            "phone": "+91 90000 10007",
+            "designation": "QA Engineer"
+        },
+        "skills": [
+            "Manual Testing",
+            "Selenium",
+            "Python",
+            "SQL",
+            "API Testing",
+            "Postman",
+            "Jira",
+            "TestNG",
+            "Regression Testing"
+        ],
+        "experience": "in manual and automated software testing.\nSKILLS\nManual Testing, Selenium, Python, SQL, API Testing, Postman, Jira, TestNG, Regression Testing\nEXPERIENCE\nQA Engineer, SoftTest Solutions, Coimbatore | 2025–2026\n Prepared test cases and test reports.\n Performed functional, regression and API testing.\n Automated web test cases using Selenium.",
+        "education": "B.Sc. Computer Science, Bharathiar University, 2025",
+        "certifications": [
+            "ISTQB Foundation Level, 2025"
+        ],
+        "projects": [
+            "E-commerce Testing Suite – Selenium, Python, Postman"
+        ]
+    },
+    {
+        "resume_file": "08_Cybersecurity_Analyst.pdf",
+        "candidate_profile": {
+            "name": "Akhil Suresh",
+            "email": "akhil.suresh@example.com",
+            "phone": "+91 90000 10008",
+            "designation": "Cybersecurity Analyst"
+        },
+        "skills": [
+            "Cybersecurity",
+            "Linux",
+            "Networking",
+            "SIEM",
+            "Wireshark",
+            "Vulnerability Assessment",
+            "Python",
+            "SQL",
+            "Firewalls"
+        ],
+        "experience": "in security monitoring, vulnerability assessment and incident\nsupport.\nSKILLS\nCybersecurity, Linux, Networking, SIEM, Wireshark, Vulnerability Assessment, Python, SQL, Firewalls\nEXPERIENCE\nCybersecurity Analyst, SecureNet India, Bengaluru | 2024–2026\n Monitored security alerts using SIEM tools.\n Assisted with vulnerability assessments and incident investigations.\n Analyzed network traffic and security logs.",
+        "education": "MCA, Bangalore University, 2024",
+        "certifications": [
+            "CompTIA Security+, 2025"
+        ],
+        "projects": [
+            "Network Intrusion Detection Prototype – Python, Wireshark"
+        ]
+    },
+    {
+        "resume_file": "09_HR_Executive.pdf",
+        "candidate_profile": {
+            "name": "Sneha Mathew",
+            "email": "sneha.mathew@example.com",
+            "phone": "+91 90000 10009",
+            "designation": "HR Executive"
+        },
+        "skills": [
+            "Recruitment",
+            "Candidate Screening",
+            "Interview Coordination",
+            "HR Operations",
+            "Communication",
+            "MS Excel",
+            "HRMS"
+        ],
+        "experience": "in recruitment coordination, employee support and HR operations.\nSKILLS\nRecruitment, Candidate Screening, Interview Coordination, HR Operations, Communication, MS Excel, HRMS\nEXPERIENCE\nHR Executive, PeopleFirst Services, Kochi | 2024–2026\n Coordinated recruitment and interview schedules.\n Screened candidate profiles against job requirements.\n Maintained employee records and supported onboarding.",
+        "education": "MBA Human Resources, Mahatma Gandhi University, 2024",
+        "certifications": [
+            "HR Analytics Certification – Great Learning, 2025"
+        ],
+        "projects": [
+            "Employee Onboarding Process Improvement"
+        ]
+    },
+    {
+        "resume_file": "10_Digital_Marketing_Executive.pdf",
+        "candidate_profile": {
+            "name": "Diya Krishnan",
+            "email": "diya.krishnan@example.com",
+            "phone": "+91 90000 10010",
+            "designation": "Digital Marketing Executive"
+        },
+        "skills": [
+            "SEO",
+            "Social Media Marketing",
+            "Google Analytics",
+            "Content Marketing",
+            "Canva",
+            "Email Marketing",
+            "Keyword Research"
+        ],
+        "experience": "in SEO, social media and digital campaign analysis.\nSKILLS\nSEO, Social Media Marketing, Google Analytics, Content Marketing, Canva, Email Marketing, Keyword Research\nEXPERIENCE\nDigital Marketing Executive, BrandGrow Media, Chennai | 2025–2026\n Managed social media campaigns and content calendars.\n Performed keyword research and SEO optimization.\n Analyzed campaign performance using analytics tools.",
+        "education": "BBA Marketing, University of Madras, 2024",
+        "certifications": [
+            "Google Digital Marketing & E-commerce Certificate, 2025"
+        ],
+        "projects": [
+            "SEO Campaign for E-commerce Website"
+        ]
+    }
+]

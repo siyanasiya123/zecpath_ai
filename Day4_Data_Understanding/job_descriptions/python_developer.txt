@@ -1,0 +1,29 @@
+Job Title: Python Developer
+Company: TechNova Solutions
+Location: Kochi, Kerala
+Employment Type: Full-time
+
+Job Description:
+We are looking for a Python Developer to develop and maintain web applications and backend services.
+
+Required Skills:
+Python, Django, SQL, REST API, Git
+
+Preferred Skills:
+Docker, AWS, PostgreSQL
+
+Experience:
+0-2 years
+
+Education:
+BCA, MCA, B.Tech or equivalent
+
+Responsibilities:
+Develop Python applications
+Build REST APIs
+Work with databases
+Debug and maintain applications
+Collaborate with development teams
+
+Certifications:
+Python or cloud certification is preferred

@@ -1,0 +1,23 @@
+[
+    {
+        "candidate_id": "C001",
+        "name": "Siyana Sherin",
+        "email": "siyana@example.com",
+        "phone": "9876543210",
+        "location": "Kerala"
+    },
+    {
+        "candidate_id": "C002",
+        "name": "Anand Kumar",
+        "email": "anand@example.com",
+        "phone": "9876543211",
+        "location": "Kochi"
+    },
+    {
+        "candidate_id": "C003",
+        "name": "Anna Maria",
+        "email": "anna@example.com",
+        "phone": "9876543212",
+        "location": "Trivandrum"
+    }
+]
