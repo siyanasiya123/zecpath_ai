@@ -1,0 +1,33 @@
+{
+    "name": "Arjun Nair",
+    "email": "arjun.nair@example.com",
+    "phone": "+91 90000 10001",
+    "location": "Kochi, Kerala",
+    "skills": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "REST API",
+        "HTML",
+        "CSS"
+    ],
+    "summary": "Python Developer with 2 years of experience building web applications and REST APIs using Python and Django.",
+    "experience": [
+        "Python Developer, TechNova Solutions, Kochi | 2024–2026",
+        " Developed Django web applications and REST APIs.",
+        " Worked with PostgreSQL databases and Git.",
+        " Fixed bugs and improved application performance."
+    ],
+    "education": [
+        "B.Tech in Computer Science, APJ Abdul Kalam Technological University, 2024"
+    ],
+    "certifications": [
+        "Python Programming Certification – Coursera, 2024"
+    ],
+    "projects": [
+        "Employee Management System – Django, PostgreSQL, REST API"
+    ]
+}

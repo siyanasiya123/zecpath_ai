@@ -1,0 +1,34 @@
+{
+    "name": "Rahul Menon",
+    "email": "rahul.menon@example.com",
+    "phone": "+91 90000 10003",
+    "location": "Thiruvananthapuram, Kerala",
+    "skills": [
+        "Python",
+        "Machine Learning",
+        "Deep Learning",
+        "TensorFlow",
+        "PyTorch",
+        "NLP",
+        "OpenCV",
+        "Pandas",
+        "SQL",
+        "Git"
+    ],
+    "summary": "AI/ML Engineer with 2 years of experience developing machine learning and deep learning solutions.",
+    "experience": [
+        "AI/ML Engineer, VisionAI Labs, Thiruvananthapuram | 2024–2026",
+        " Developed classification and prediction models.",
+        " Built NLP pipelines for text classification.",
+        " Evaluated models using standard performance metrics."
+    ],
+    "education": [
+        "M.Tech in Artificial Intelligence, Kerala University, 2024"
+    ],
+    "certifications": [
+        "Deep Learning Specialization – DeepLearning.AI, 2025"
+    ],
+    "projects": [
+        "Document Classification System – Python, NLP, TensorFlow"
+    ]
+}

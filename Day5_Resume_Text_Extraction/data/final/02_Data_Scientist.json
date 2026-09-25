@@ -1,0 +1,33 @@
+{
+    "name": "Meera Joseph",
+    "email": "meera.joseph@example.com",
+    "phone": "+91 90000 10002",
+    "location": "Bengaluru, Karnataka",
+    "skills": [
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "SQL",
+        "Matplotlib",
+        "Seaborn",
+        "Machine Learning",
+        "Statistics"
+    ],
+    "summary": "Data Scientist with 1.5 years of experience in data analysis, machine learning, visualization and predictive modeling.",
+    "experience": [
+        "Junior Data Scientist, DataBridge Analytics, Bengaluru | 2025–2026",
+        " Cleaned and analyzed structured datasets.",
+        " Built regression and classification models.",
+        " Created reports for business teams."
+    ],
+    "education": [
+        "M.Sc. Data Science, University of Mysore, 2024"
+    ],
+    "certifications": [
+        "IBM Data Science Professional Certificate, 2025"
+    ],
+    "projects": [
+        "Customer Churn Prediction – Python, Pandas, Scikit-learn"
+    ]
+}

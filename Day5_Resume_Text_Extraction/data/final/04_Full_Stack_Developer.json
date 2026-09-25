@@ -1,0 +1,35 @@
+{
+    "name": "Ananya Thomas",
+    "email": "ananya.thomas@example.com",
+    "phone": "+91 90000 10004",
+    "location": "Kozhikode, Kerala",
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express.js",
+        "Python",
+        "Django",
+        "MongoDB",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "Git"
+    ],
+    "summary": "Full Stack Developer with 3 years of experience developing responsive web applications and backend services.",
+    "experience": [
+        "Full Stack Developer, WebCraft Technologies, Kozhikode | 2023–2026",
+        " Built responsive React applications.",
+        " Developed Node.js and Django backend services.",
+        " Integrated databases and REST APIs."
+    ],
+    "education": [
+        "BCA, University of Calicut, 2023"
+    ],
+    "certifications": [
+        "Full Stack Web Development Certificate – Udemy, 2023"
+    ],
+    "projects": [
+        "Online Learning Platform – React, Node.js, MongoDB"
+    ]
+}

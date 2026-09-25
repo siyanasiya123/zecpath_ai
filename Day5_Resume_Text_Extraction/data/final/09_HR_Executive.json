@@ -1,0 +1,31 @@
+{
+    "name": "Sneha Mathew",
+    "email": "sneha.mathew@example.com",
+    "phone": "+91 90000 10009",
+    "location": "Kochi, Kerala",
+    "skills": [
+        "Recruitment",
+        "Candidate Screening",
+        "Interview Coordination",
+        "HR Operations",
+        "Communication",
+        "MS Excel",
+        "HRMS"
+    ],
+    "summary": "HR Executive with 2 years of experience in recruitment coordination, employee support and HR operations.",
+    "experience": [
+        "HR Executive, PeopleFirst Services, Kochi | 2024–2026",
+        " Coordinated recruitment and interview schedules.",
+        " Screened candidate profiles against job requirements.",
+        " Maintained employee records and supported onboarding."
+    ],
+    "education": [
+        "MBA Human Resources, Mahatma Gandhi University, 2024"
+    ],
+    "certifications": [
+        "HR Analytics Certification – Great Learning, 2025"
+    ],
+    "projects": [
+        "Employee Onboarding Process Improvement"
+    ]
+}

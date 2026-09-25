@@ -1,0 +1,33 @@
+{
+    "name": "Akhil Suresh",
+    "email": "akhil.suresh@example.com",
+    "phone": "+91 90000 10008",
+    "location": "Bengaluru, Karnataka",
+    "skills": [
+        "Cybersecurity",
+        "Linux",
+        "Networking",
+        "SIEM",
+        "Wireshark",
+        "Vulnerability Assessment",
+        "Python",
+        "SQL",
+        "Firewalls"
+    ],
+    "summary": "Cybersecurity Analyst with 2 years of experience in security monitoring, vulnerability assessment and incident support.",
+    "experience": [
+        "Cybersecurity Analyst, SecureNet India, Bengaluru | 2024–2026",
+        " Monitored security alerts using SIEM tools.",
+        " Assisted with vulnerability assessments and incident investigations.",
+        " Analyzed network traffic and security logs."
+    ],
+    "education": [
+        "MCA, Bangalore University, 2024"
+    ],
+    "certifications": [
+        "CompTIA Security+, 2025"
+    ],
+    "projects": [
+        "Network Intrusion Detection Prototype – Python, Wireshark"
+    ]
+}

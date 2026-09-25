@@ -1,0 +1,34 @@
+{
+    "name": "Fathima Salim",
+    "email": "fathima.salim@example.com",
+    "phone": "+91 90000 10006",
+    "location": "Hyderabad, Telangana",
+    "skills": [
+        "AWS",
+        "EC2",
+        "S3",
+        "IAM",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "Linux",
+        "Git",
+        "CI/CD"
+    ],
+    "summary": "Cloud Engineer with 2.5 years of experience in cloud infrastructure, containers and deployment automation.",
+    "experience": [
+        "Cloud Engineer, CloudMatrix Systems, Hyderabad | 2023–2026",
+        " Managed AWS cloud resources and access policies.",
+        " Containerized applications using Docker.",
+        " Automated infrastructure deployment using Terraform."
+    ],
+    "education": [
+        "B.Tech Information Technology, JNTU Hyderabad, 2023"
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect – Associate, 2025"
+    ],
+    "projects": [
+        "AWS Application Deployment Pipeline – AWS, Docker, Terraform"
+    ]
+}

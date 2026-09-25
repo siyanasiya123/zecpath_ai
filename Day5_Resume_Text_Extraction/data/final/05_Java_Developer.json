@@ -1,0 +1,33 @@
+{
+    "name": "Vivek Kumar",
+    "email": "vivek.kumar@example.com",
+    "phone": "+91 90000 10005",
+    "location": "Chennai, Tamil Nadu",
+    "skills": [
+        "Java",
+        "Spring Boot",
+        "Hibernate",
+        "REST API",
+        "MySQL",
+        "Maven",
+        "Git",
+        "JUnit",
+        "OOP"
+    ],
+    "summary": "Java Developer with 2 years of experience developing enterprise applications using Java and Spring Boot.",
+    "experience": [
+        "Java Developer, CodeSphere Pvt Ltd, Chennai | 2024–2026",
+        " Developed RESTful services using Spring Boot.",
+        " Implemented database operations with Hibernate and MySQL.",
+        " Wrote unit tests and participated in code reviews."
+    ],
+    "education": [
+        "B.E. Computer Science, Anna University, 2024"
+    ],
+    "certifications": [
+        "Oracle Certified Professional Java SE, 2025"
+    ],
+    "projects": [
+        "Banking Transaction API – Java, Spring Boot, MySQL"
+    ]
+}

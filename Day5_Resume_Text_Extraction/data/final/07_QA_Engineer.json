@@ -1,0 +1,33 @@
+{
+    "name": "Nikhil Raj",
+    "email": "nikhil.raj@example.com",
+    "phone": "+91 90000 10007",
+    "location": "Coimbatore, Tamil Nadu",
+    "skills": [
+        "Manual Testing",
+        "Selenium",
+        "Python",
+        "SQL",
+        "API Testing",
+        "Postman",
+        "Jira",
+        "TestNG",
+        "Regression Testing"
+    ],
+    "summary": "QA Engineer with 1 year of experience in manual and automated software testing.",
+    "experience": [
+        "QA Engineer, SoftTest Solutions, Coimbatore | 2025–2026",
+        " Prepared test cases and test reports.",
+        " Performed functional, regression and API testing.",
+        " Automated web test cases using Selenium."
+    ],
+    "education": [
+        "B.Sc. Computer Science, Bharathiar University, 2025"
+    ],
+    "certifications": [
+        "ISTQB Foundation Level, 2025"
+    ],
+    "projects": [
+        "E-commerce Testing Suite – Selenium, Python, Postman"
+    ]
+}
