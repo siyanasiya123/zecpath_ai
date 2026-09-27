@@ -1,0 +1,17 @@
+Job Title: AI Engineer
+
+We are looking for an AI Engineer with 2-4 years of experience.
+
+Required Skills:
+Python, Machine Learning, Deep Learning, NLP,
+Generative AI, Large Language Models, SQL, Flask,
+FastAPI, REST API, Pandas, NumPy, and Git.
+
+Education:
+Bachelor's degree or Master's degree in Computer Science,
+Data Science, Artificial Intelligence, or a related field.
+
+Responsibilities:
+Develop AI-powered applications, build machine learning
+models, work with large language models, and create
+REST APIs for backend services.

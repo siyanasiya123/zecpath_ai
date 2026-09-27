@@ -1,0 +1,27 @@
+{
+    "job_role": "Ai Engineer",
+    "required_skills": [
+        "deep learning",
+        "fastapi",
+        "flask",
+        "generative ai",
+        "git",
+        "large language models",
+        "machine learning",
+        "natural language processing",
+        "numpy",
+        "pandas",
+        "python",
+        "rest api",
+        "sql"
+    ],
+    "experience": {
+        "minimum_years": 2,
+        "maximum_years": 4
+    },
+    "education": [
+        "Master's Degree",
+        "Bachelor's Degree"
+    ],
+    "normalized_description": "job title: ai engineer we are looking for an ai engineer with 2-4 years of experience. required skills: python, machine learning, deep learning, nlp, generative ai, large language models, sql, flask, fastapi, rest api, pandas, numpy, and git. education: bachelor's degree or master's degree in computer science, data science, artificial intelligence, or a related field. responsibilities: develop ai-powered applications, build machine learning models, work with large language models, and create rest apis for backend services."
+}
