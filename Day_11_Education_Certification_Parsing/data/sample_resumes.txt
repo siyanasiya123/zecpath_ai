@@ -1,0 +1,42 @@
+RESUME 1
+
+EDUCATION
+Master of Computer Applications in Computer Applications
+University of Calicut
+2026
+
+Bachelor of Computer Applications
+ABC College
+2024
+
+CERTIFICATIONS
+Google Data Analytics Certificate
+AWS Certified Cloud Practitioner
+
+
+RESUME 2
+
+EDUCATION
+Bachelor of Technology in Computer Science
+Cochin University of Science and Technology
+2023
+
+Master of Technology in Artificial Intelligence
+Kerala Technological University
+2025
+
+CERTIFICATIONS
+TensorFlow Developer Certificate
+Microsoft Certified: Azure Fundamentals
+
+
+RESUME 3
+
+EDUCATION
+Bachelor of Science in Mathematics
+XYZ University
+2022
+
+CERTIFICATIONS
+Project Management Professional (PMP)
+CompTIA Security+

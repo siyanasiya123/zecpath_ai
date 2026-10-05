@@ -1,0 +1,92 @@
+[
+    {
+        "resume_id": "RESUME 1",
+        "target_role": "AI Engineer",
+        "education": [
+            {
+                "degree": "Master of Computer Applications",
+                "field_of_study": "Computer Applications",
+                "institution": "University of Calicut",
+                "graduation_year": 2026
+            },
+            {
+                "degree": "Bachelor of Computer Applications",
+                "field_of_study": "Computer Applications",
+                "institution": "ABC College",
+                "graduation_year": 2024
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Google Data Analytics Certificate",
+                "category": "Data Analytics"
+            },
+            {
+                "name": "AWS Certified Cloud Practitioner",
+                "category": "Cloud"
+            }
+        ],
+        "education_relevance": {
+            "score": 100.0,
+            "category": "Highly Relevant"
+        }
+    },
+    {
+        "resume_id": "RESUME 2",
+        "target_role": "AI Engineer",
+        "education": [
+            {
+                "degree": "Bachelor of Technology",
+                "field_of_study": "Computer Science",
+                "institution": "Cochin University of Science and Technology",
+                "graduation_year": 2023
+            },
+            {
+                "degree": "Master of Technology",
+                "field_of_study": "Artificial Intelligence",
+                "institution": "Kerala Technological University",
+                "graduation_year": 2025
+            }
+        ],
+        "certifications": [
+            {
+                "name": "TensorFlow Developer Certificate",
+                "category": "AI / Machine Learning"
+            },
+            {
+                "name": "Microsoft Certified: Azure Fundamentals",
+                "category": "Cloud"
+            }
+        ],
+        "education_relevance": {
+            "score": 100.0,
+            "category": "Highly Relevant"
+        }
+    },
+    {
+        "resume_id": "RESUME 3",
+        "target_role": "AI Engineer",
+        "education": [
+            {
+                "degree": "Bachelor of Science",
+                "field_of_study": "Mathematics",
+                "institution": "XYZ University",
+                "graduation_year": 2022
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Project Management Professional (PMP)",
+                "category": "Project Management"
+            },
+            {
+                "name": "CompTIA Security+",
+                "category": "Cybersecurity"
+            }
+        ],
+        "education_relevance": {
+            "score": 0.0,
+            "category": "Low Relevance"
+        }
+    }
+]
