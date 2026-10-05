@@ -1,0 +1,43 @@
+RESUME 1
+
+SOFTWARE DEVELOPER
+
+Technical Skills:
+Python, Flask, FastAPI, SQL, Machine Learning, NLP,
+Git, GitHub, Streamlit, Pandas, NumPy.
+
+Experience:
+Developed web applications using Python and Flask.
+Worked with REST APIs and database systems.
+
+Additional Skills:
+Problem Solving, Communication, Leadership.
+
+
+RESUME 2
+
+FULL STACK DEVELOPER
+
+Skills:
+MERN Stack, JavaScript, React, Node.js, MongoDB,
+HTML, CSS, Git.
+
+Experience:
+Developed responsive web applications using the MERN stack.
+
+Creative Skills:
+UI Design, Figma.
+
+
+RESUME 3
+
+AI ENGINEER
+
+Technical Expertise:
+Python, Artificial Intelligence, Deep Learning,
+Generative AI, Large Language Models, RAG,
+TensorFlow, PyTorch.
+
+Business Skills:
+Data Analysis, Business Intelligence,
+Project Management.

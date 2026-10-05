@@ -1,0 +1,236 @@
+[
+    {
+        "resume_id": "1",
+        "total_skills": 15,
+        "skills": [
+            {
+                "skill": "communication",
+                "category": "Business",
+                "confidence": 0.98,
+                "matched_as": "communication"
+            },
+            {
+                "skill": "fastapi",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "fastapi"
+            },
+            {
+                "skill": "flask",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "flask"
+            },
+            {
+                "skill": "git",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "git"
+            },
+            {
+                "skill": "leadership",
+                "category": "Business",
+                "confidence": 0.98,
+                "matched_as": "leadership"
+            },
+            {
+                "skill": "machine learning",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "machine learning"
+            },
+            {
+                "skill": "problem solving",
+                "category": "Business",
+                "confidence": 0.98,
+                "matched_as": "problem solving"
+            },
+            {
+                "skill": "python",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "python"
+            },
+            {
+                "skill": "sql",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "sql"
+            },
+            {
+                "skill": "github",
+                "category": "Technical",
+                "confidence": 0.9,
+                "matched_as": "github"
+            },
+            {
+                "skill": "numpy",
+                "category": "Technical",
+                "confidence": 0.9,
+                "matched_as": "numpy"
+            },
+            {
+                "skill": "pandas",
+                "category": "Technical",
+                "confidence": 0.9,
+                "matched_as": "pandas"
+            },
+            {
+                "skill": "streamlit",
+                "category": "Technical",
+                "confidence": 0.9,
+                "matched_as": "streamlit"
+            },
+            {
+                "skill": "natural language processing",
+                "category": "Technical",
+                "confidence": 0.88,
+                "matched_as": "nlp"
+            },
+            {
+                "skill": "rest api",
+                "category": "Technical",
+                "confidence": 0.88,
+                "matched_as": "rest apis"
+            }
+        ]
+    },
+    {
+        "resume_id": "2",
+        "total_skills": 10,
+        "skills": [
+            {
+                "skill": "figma",
+                "category": "Creative",
+                "confidence": 0.98,
+                "matched_as": "figma"
+            },
+            {
+                "skill": "html",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "html"
+            },
+            {
+                "skill": "javascript",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "javascript"
+            },
+            {
+                "skill": "node.js",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "node.js"
+            },
+            {
+                "skill": "react",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "react"
+            },
+            {
+                "skill": "ui design",
+                "category": "Creative",
+                "confidence": 0.98,
+                "matched_as": "ui design"
+            },
+            {
+                "skill": "css",
+                "category": "Technical",
+                "confidence": 0.9,
+                "matched_as": "css"
+            },
+            {
+                "skill": "git",
+                "category": "Technical",
+                "confidence": 0.9,
+                "matched_as": "git"
+            },
+            {
+                "skill": "express.js",
+                "category": "Technical",
+                "confidence": 0.85,
+                "matched_as": "skill stack"
+            },
+            {
+                "skill": "mongodb",
+                "category": "Technical",
+                "confidence": 0.85,
+                "matched_as": "skill stack"
+            }
+        ]
+    },
+    {
+        "resume_id": "3",
+        "total_skills": 11,
+        "skills": [
+            {
+                "skill": "artificial intelligence",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "artificial intelligence"
+            },
+            {
+                "skill": "business intelligence",
+                "category": "Business",
+                "confidence": 0.98,
+                "matched_as": "business intelligence"
+            },
+            {
+                "skill": "data analysis",
+                "category": "Business",
+                "confidence": 0.98,
+                "matched_as": "data analysis"
+            },
+            {
+                "skill": "deep learning",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "deep learning"
+            },
+            {
+                "skill": "generative ai",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "generative ai"
+            },
+            {
+                "skill": "large language models",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "large language models"
+            },
+            {
+                "skill": "project management",
+                "category": "Business",
+                "confidence": 0.98,
+                "matched_as": "project management"
+            },
+            {
+                "skill": "python",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "python"
+            },
+            {
+                "skill": "pytorch",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "pytorch"
+            },
+            {
+                "skill": "rag",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "rag"
+            },
+            {
+                "skill": "tensorflow",
+                "category": "Technical",
+                "confidence": 0.98,
+                "matched_as": "tensorflow"
+            }
+        ]
+    }
+]
