@@ -1,0 +1,2 @@
+# Day 8 - Resume Section Segmentation
+# Uses Python standard library only.

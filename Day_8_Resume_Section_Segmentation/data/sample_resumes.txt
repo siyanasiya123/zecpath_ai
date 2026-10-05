@@ -1,0 +1,20 @@
+SOFTWARE DEVELOPER
+
+Skills
+Python, Flask, SQL, Machine Learning, HTML, CSS
+
+Work Experience
+Python Developer Intern at ABC Company
+Developed web applications using Flask and Python.
+
+Education
+Master of Computer Applications (MCA)
+Bachelor of Computer Applications (BCA)
+
+Certifications
+Python Programming Certificate
+Machine Learning Certificate
+
+Projects
+AI Resume Analyzer
+Developed a resume analysis application using Python.

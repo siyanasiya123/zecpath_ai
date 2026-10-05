@@ -1,0 +1,30 @@
+{
+    "resume_file": "sample_resumes.txt",
+    "total_sections_detected": 6,
+    "sections": [
+        {
+            "section": "Skills",
+            "text": "Python, Flask, SQL, Machine Learning, HTML, CSS"
+        },
+        {
+            "section": "Work Experience",
+            "text": "Python Developer Intern at ABC Company\nDeveloped web applications using Flask and Python."
+        },
+        {
+            "section": "Education",
+            "text": "Master of Computer Applications (MCA)\nBachelor of Computer Applications (BCA)"
+        },
+        {
+            "section": "Certifications",
+            "text": "Python Programming Certificate\nMachine Learning Certificate"
+        },
+        {
+            "section": "Projects",
+            "text": "AI Resume Analyzer\nDeveloped a resume analysis application using Python."
+        },
+        {
+            "section": "Other",
+            "text": "SOFTWARE DEVELOPER"
+        }
+    ]
+}
