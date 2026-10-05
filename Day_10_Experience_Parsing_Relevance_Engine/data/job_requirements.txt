@@ -1,0 +1,22 @@
+JOB ROLE: AI Engineer
+
+REQUIRED SKILLS:
+Python
+Machine Learning
+Deep Learning
+Natural Language Processing
+Generative AI
+Large Language Models
+RAG
+FastAPI
+REST APIs
+
+EXPERIENCE:
+2 years
+
+RELATED ROLES:
+AI Engineer
+Machine Learning Engineer
+Python Developer
+Data Scientist
+Software Engineer

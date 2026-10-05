@@ -1,0 +1,50 @@
+RESUME 1
+
+EXPERIENCE
+
+Python Developer Intern
+ABC Technologies
+January 2024 - June 2024
+
+Worked on Python applications, Flask APIs and SQL databases.
+
+Python Developer
+XYZ Solutions
+July 2024 - December 2025
+
+Developed backend applications using Python, FastAPI and REST APIs.
+
+
+RESUME 2
+
+EXPERIENCE
+
+Data Analyst
+DataWorks Pvt Ltd
+January 2023 - December 2023
+
+Performed data analysis using Python, Pandas, SQL and Power BI.
+
+AI Engineer
+AI Solutions
+January 2024 - Present
+
+Developed machine learning and Generative AI applications using
+Python, NLP, LLMs and RAG.
+
+
+RESUME 3
+
+EXPERIENCE
+
+Web Developer
+Creative Technologies
+January 2022 - June 2022
+
+Developed responsive web applications using HTML, CSS and JavaScript.
+
+Software Engineer
+Tech Innovations
+January 2023 - December 2024
+
+Developed backend services and REST APIs using Python and Flask.

@@ -1,0 +1,86 @@
+[
+    {
+        "resume_id": "RESUME 1",
+        "target_role": "AI Engineer",
+        "total_experience_months": 22,
+        "total_experience_years": 1.83,
+        "gaps": [],
+        "overlaps": [],
+        "experiences": [
+            {
+                "job_title": "Python Developer Intern",
+                "company": "ABC Technologies",
+                "start_date": "2024-01-01",
+                "end_date": "2024-06-01",
+                "duration_months": 5,
+                "relevance_score": 12.0
+            },
+            {
+                "job_title": "Python Developer",
+                "company": "XYZ Solutions",
+                "start_date": "2024-07-01",
+                "end_date": "2025-12-01",
+                "duration_months": 17,
+                "relevance_score": 12.0
+            }
+        ]
+    },
+    {
+        "resume_id": "RESUME 2",
+        "target_role": "AI Engineer",
+        "total_experience_months": 44,
+        "total_experience_years": 3.67,
+        "gaps": [],
+        "overlaps": [],
+        "experiences": [
+            {
+                "job_title": "Data Analyst",
+                "company": "DataWorks Pvt Ltd",
+                "start_date": "2023-01-01",
+                "end_date": "2023-12-01",
+                "duration_months": 11,
+                "relevance_score": 0.0
+            },
+            {
+                "job_title": "AI Engineer",
+                "company": "AI Solutions",
+                "start_date": "2024-01-01",
+                "end_date": "2026-10-01",
+                "duration_months": 33,
+                "relevance_score": 100.0
+            }
+        ]
+    },
+    {
+        "resume_id": "RESUME 3",
+        "target_role": "AI Engineer",
+        "total_experience_months": 28,
+        "total_experience_years": 2.33,
+        "gaps": [
+            {
+                "from": "2022-06-01",
+                "to": "2023-01-01",
+                "gap_months": 6
+            }
+        ],
+        "overlaps": [],
+        "experiences": [
+            {
+                "job_title": "Web Developer",
+                "company": "Creative Technologies",
+                "start_date": "2022-01-01",
+                "end_date": "2022-06-01",
+                "duration_months": 5,
+                "relevance_score": 0.0
+            },
+            {
+                "job_title": "Software Engineer",
+                "company": "Tech Innovations",
+                "start_date": "2023-01-01",
+                "end_date": "2024-12-01",
+                "duration_months": 23,
+                "relevance_score": 0.0
+            }
+        ]
+    }
+]
