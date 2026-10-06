@@ -1,0 +1,48 @@
+RESUME 1
+
+NAME: Candidate 1
+
+SKILLS:
+Python, Flask, FastAPI, SQL, Machine Learning, REST APIs, Git, Pandas, NumPy
+
+EXPERIENCE:
+Worked as a Python Developer developing backend applications and REST APIs.
+Built machine learning solutions for data processing and prediction.
+Developed backend services using Flask and FastAPI.
+
+PROJECTS:
+AI Resume Analyzer using Python, Streamlit and Google Gemini API.
+Developed a machine learning based candidate screening application.
+
+
+RESUME 2
+
+NAME: Candidate 2
+
+SKILLS:
+Java, Spring Boot, MySQL, REST APIs, Git, Docker, React
+
+EXPERIENCE:
+Worked as a Java Backend Developer developing enterprise applications.
+Created REST services using Spring Boot and integrated MySQL databases.
+
+PROJECTS:
+Developed an employee management system using Java, Spring Boot and MySQL.
+Built a web application with React and REST APIs.
+
+
+RESUME 3
+
+NAME: Candidate 3
+
+SKILLS:
+Python, Pandas, NumPy, SQL, Power BI, Statistics, Data Analysis, Machine Learning
+
+EXPERIENCE:
+Worked as a Data Analyst analyzing business datasets and creating reports.
+Used Python and SQL for data cleaning and statistical analysis.
+Created dashboards for business decision making.
+
+PROJECTS:
+Developed a sales analytics dashboard using Power BI.
+Built a customer analysis project using Python and machine learning.

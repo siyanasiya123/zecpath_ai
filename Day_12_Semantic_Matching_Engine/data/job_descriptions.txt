@@ -1,0 +1,50 @@
+JOB 1
+
+JOB TITLE: AI / Python Developer
+
+SKILLS:
+Python, Flask, FastAPI, Machine Learning, SQL, REST APIs, Git, Pandas, NumPy
+
+EXPERIENCE:
+Experience developing backend applications and REST APIs using Python.
+Knowledge of machine learning and data processing.
+Experience with Flask or FastAPI is preferred.
+
+PROJECTS:
+Experience building AI applications, machine learning solutions,
+data processing systems or intelligent automation projects.
+
+
+JOB 2
+
+JOB TITLE: Java Backend Developer
+
+SKILLS:
+Java, Spring Boot, MySQL, REST APIs, Git, Docker, React
+
+EXPERIENCE:
+Experience developing enterprise backend applications using Java.
+Strong knowledge of Spring Boot and relational databases.
+Experience developing and integrating REST services.
+
+PROJECTS:
+Experience building enterprise applications, employee management systems,
+web applications or database-driven backend systems.
+
+
+JOB 3
+
+JOB TITLE: Data Analyst
+
+SKILLS:
+Python, Pandas, NumPy, SQL, Power BI, Statistics, Data Analysis,
+Machine Learning
+
+EXPERIENCE:
+Experience analyzing business data and preparing analytical reports.
+Strong knowledge of Python, SQL and statistical analysis.
+Experience creating dashboards and supporting business decisions.
+
+PROJECTS:
+Experience developing business intelligence dashboards,
+sales analytics solutions, customer analysis or predictive analytics projects.

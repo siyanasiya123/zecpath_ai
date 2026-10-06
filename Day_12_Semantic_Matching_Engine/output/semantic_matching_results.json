@@ -1,0 +1,245 @@
+[
+    {
+        "resume_id": "RESUME 1",
+        "job_id": "JOB 1",
+        "job_title": "AI / Python Developer",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.9996,
+                "similarity_percentage": 99.96,
+                "category": "Highly Similar"
+            },
+            "experience": {
+                "similarity_score": 0.8363,
+                "similarity_percentage": 83.63,
+                "category": "Highly Similar"
+            },
+            "projects": {
+                "similarity_score": 0.4714,
+                "similarity_percentage": 47.14,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.871,
+                "similarity_percentage": 87.1,
+                "category": "Highly Similar"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 1",
+        "job_id": "JOB 2",
+        "job_title": "Java Backend Developer",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.4709,
+                "similarity_percentage": 47.09,
+                "category": "Low Similarity"
+            },
+            "experience": {
+                "similarity_score": 0.465,
+                "similarity_percentage": 46.5,
+                "category": "Low Similarity"
+            },
+            "projects": {
+                "similarity_score": 0.2785,
+                "similarity_percentage": 27.85,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.4902,
+                "similarity_percentage": 49.02,
+                "category": "Low Similarity"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 1",
+        "job_id": "JOB 3",
+        "job_title": "Data Analyst",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.7769,
+                "similarity_percentage": 77.69,
+                "category": "Relevant"
+            },
+            "experience": {
+                "similarity_score": 0.5129,
+                "similarity_percentage": 51.29,
+                "category": "Partially Relevant"
+            },
+            "projects": {
+                "similarity_score": 0.3606,
+                "similarity_percentage": 36.06,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.6479,
+                "similarity_percentage": 64.79,
+                "category": "Partially Relevant"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 2",
+        "job_id": "JOB 1",
+        "job_title": "AI / Python Developer",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.4776,
+                "similarity_percentage": 47.76,
+                "category": "Low Similarity"
+            },
+            "experience": {
+                "similarity_score": 0.456,
+                "similarity_percentage": 45.6,
+                "category": "Low Similarity"
+            },
+            "projects": {
+                "similarity_score": 0.2694,
+                "similarity_percentage": 26.94,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.4836,
+                "similarity_percentage": 48.36,
+                "category": "Low Similarity"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 2",
+        "job_id": "JOB 2",
+        "job_title": "Java Backend Developer",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 1.0,
+                "similarity_percentage": 100.0,
+                "category": "Highly Similar"
+            },
+            "experience": {
+                "similarity_score": 0.8145,
+                "similarity_percentage": 81.45,
+                "category": "Highly Similar"
+            },
+            "projects": {
+                "similarity_score": 0.6476,
+                "similarity_percentage": 64.76,
+                "category": "Partially Relevant"
+            },
+            "overall": {
+                "similarity_score": 0.9098,
+                "similarity_percentage": 90.98,
+                "category": "Highly Similar"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 2",
+        "job_id": "JOB 3",
+        "job_title": "Data Analyst",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.2488,
+                "similarity_percentage": 24.88,
+                "category": "Low Similarity"
+            },
+            "experience": {
+                "similarity_score": 0.3649,
+                "similarity_percentage": 36.49,
+                "category": "Low Similarity"
+            },
+            "projects": {
+                "similarity_score": 0.3375,
+                "similarity_percentage": 33.75,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.3444,
+                "similarity_percentage": 34.44,
+                "category": "Low Similarity"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 3",
+        "job_id": "JOB 1",
+        "job_title": "AI / Python Developer",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.7715,
+                "similarity_percentage": 77.15,
+                "category": "Relevant"
+            },
+            "experience": {
+                "similarity_score": 0.4156,
+                "similarity_percentage": 41.56,
+                "category": "Low Similarity"
+            },
+            "projects": {
+                "similarity_score": 0.3184,
+                "similarity_percentage": 31.84,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.5286,
+                "similarity_percentage": 52.86,
+                "category": "Partially Relevant"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 3",
+        "job_id": "JOB 2",
+        "job_title": "Java Backend Developer",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 0.2488,
+                "similarity_percentage": 24.88,
+                "category": "Low Similarity"
+            },
+            "experience": {
+                "similarity_score": 0.3268,
+                "similarity_percentage": 32.68,
+                "category": "Low Similarity"
+            },
+            "projects": {
+                "similarity_score": 0.362,
+                "similarity_percentage": 36.2,
+                "category": "Low Similarity"
+            },
+            "overall": {
+                "similarity_score": 0.3094,
+                "similarity_percentage": 30.94,
+                "category": "Low Similarity"
+            }
+        }
+    },
+    {
+        "resume_id": "RESUME 3",
+        "job_id": "JOB 3",
+        "job_title": "Data Analyst",
+        "matching_result": {
+            "skills": {
+                "similarity_score": 1.0,
+                "similarity_percentage": 100.0,
+                "category": "Highly Similar"
+            },
+            "experience": {
+                "similarity_score": 0.8213,
+                "similarity_percentage": 82.13,
+                "category": "Highly Similar"
+            },
+            "projects": {
+                "similarity_score": 0.6747,
+                "similarity_percentage": 67.47,
+                "category": "Relevant"
+            },
+            "overall": {
+                "similarity_score": 0.9055,
+                "similarity_percentage": 90.55,
+                "category": "Highly Similar"
+            }
+        }
+    }
+]
