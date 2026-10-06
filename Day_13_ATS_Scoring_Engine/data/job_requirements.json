@@ -1,0 +1,13 @@
+{
+    "job_id": "JOB001",
+    "role": "AI Engineer",
+    "required_skills": [
+        "Python",
+        "FastAPI",
+        "Machine Learning",
+        "SQL",
+        "Docker"
+    ],
+    "required_experience_years": 2,
+    "required_education": "MCA"
+}

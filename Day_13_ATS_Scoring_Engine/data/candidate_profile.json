@@ -1,0 +1,14 @@
+{
+    "candidate_id": "CAND001",
+    "candidate_name": "Candidate 1",
+    "skills": [
+        "Python",
+        "FastAPI",
+        "Machine Learning",
+        "SQL",
+        "Git"
+    ],
+    "experience_years": 2,
+    "education": "MCA",
+    "semantic_similarity": 0.86
+}
